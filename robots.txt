@@ -1,0 +1,4 @@
+User-agent 
+Allow .js$
+Allow .css$
+Sitemap: https://baobao-1.github.io/sitemap.xml
